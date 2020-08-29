@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Artur Riazanov
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: PDMI RAS
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in computational complexity with the focus on proof complexity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- proof complexity
 
 education:
   courses:
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student at PDMI RAS based in St. Petersburg, Russia. 
